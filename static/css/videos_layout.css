@@ -11,3 +11,16 @@
   box-sizing: border-box;
 }
 
+@media screen and (max-width: 1024px) {
+  .video-grid-item {
+    flex-basis: calc(50% - 1rem);
+    max-width: calc(50% - 1rem);
+  }
+}
+
+@media screen and (max-width: 767px) {
+  .video-grid-item {
+    flex-basis: 100%;
+    max-width: 100%;
+  }
+}

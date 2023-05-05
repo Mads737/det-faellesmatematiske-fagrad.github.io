@@ -4,6 +4,7 @@ title = 'Det Fællesmatematiske Fagråd'
 theme = 'ananke'
 
 [params]
+  body_classes = "courier bg-near-white"
   site_logo = "img/logo.png"
   favicon = "favicon-32x32.png"
 

@@ -1,0 +1,13 @@
+.video-grid {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 1rem;
+}
+
+.video-grid-item {
+  flex-basis: calc(33.3333% - 1rem);
+  max-width: calc(33.3333% - 1rem);
+  box-sizing: border-box;
+}
+

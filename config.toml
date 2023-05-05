@@ -1,8 +1,13 @@
 baseURL = 'https://mathfagraad.dk/'
 languageCode = 'da-DK'
-title = 'Hjemmeside for Det Fællesmatematiske Fagråd'
+title = 'Det Fællesmatematiske Fagråd'
 theme = 'ananke'
 
 [params]
-  site_logo = "assets/logo.png"
-  
+  site_logo = "img/logo.png"
+  favicon = "favicon-32x32.png"
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

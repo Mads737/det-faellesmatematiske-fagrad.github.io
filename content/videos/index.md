@@ -7,7 +7,9 @@ menu:
   main:
     weight: 1
 ---
-Her kan I finde kursusvideoerne for nogle af de kurser der bliver udbudt på MATH!
+Her kan I finde kursusvideoerne for nogle af de kurser der bliver udbudt på MATH! 
+
+OBS. Det kan tage lidt tid før videoerne viser på siden.
 <div class="video-grid">
   <div class="video-grid-item">
     {{< youtube f04aE44zv7k >}}

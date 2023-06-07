@@ -7,6 +7,6 @@ cascade:
 ---
 Dette er hjemmesiden tilhørende Det Fællesmatematiske Fagråd på Matematisk Institut på Københavns Universitet. Fagrådet dækker studierne Matematik, Matematik-Økonomi, Forsikringsmatematik og Statistik.
 
-Har I nogle spørgsmål, så kontakt os her :)
+Har I nogle spørgsmål, så kontakt os her:
 #### Email: fagraad@math.ku.dk
 #### Addresse: Universitetsparken 5, 2200 København N

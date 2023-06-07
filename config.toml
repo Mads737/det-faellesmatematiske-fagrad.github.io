@@ -2,8 +2,10 @@ baseURL = 'https://mathfagraad.dk/'
 languageCode = 'da-DK'
 title = 'Det Fællesmatematiske Fagråd'
 theme = 'ananke'
+enableGitInfo = true
 
 [params]
+  githublink = "https://github.com/Det-Faellesmatematiske-Fagrad/det-faellesmatematiske-fagrad.github.io/blob/main/content/"
   body_classes = "bg-near-white"
   site_logo = "img/logo.png"
   favicon = "favicon-32x32.png"

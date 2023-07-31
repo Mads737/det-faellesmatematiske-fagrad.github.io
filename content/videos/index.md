@@ -12,6 +12,9 @@ Her kan I finde kursusvideoerne for nogle af de kurser der bliver udbudt på MAT
 OBS. Det kan tage lidt tid før videoerne viser på siden.
 <div class="video-grid">
   <div class="video-grid-item">
+    {{< youtube 1yWNH2k6w_g >}}
+  </div>
+  <div class="video-grid-item">
     {{< youtube f04aE44zv7k >}}
   </div>
   <div class="video-grid-item">

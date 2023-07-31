@@ -5,6 +5,7 @@ theme = 'ananke'
 enableGitInfo = true
 
 [params]
+  mainSections = ["posts"]
   githublink = "https://github.com/Det-Faellesmatematiske-Fagrad/det-faellesmatematiske-fagrad.github.io/blob/main/content/"
   body_classes = "bg-near-white"
   site_logo = "img/logo.png"

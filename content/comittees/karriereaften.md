@@ -1,6 +1,7 @@
 ---
 title: "Karriereaften"
 disable_share: true
+summary: "Medlemmer: Jinyang Liu '20"
 ---
 
 Hvert år arrangerer Karriereaften-udvalget en spændende karriereaften på MATH. I vores mission om at bygge bro mellem studerende og erhvervslivet inviterer vi talere fra diverse virksomheder, som har det til fælles, at de ofte er alumner fra MATH.
@@ -15,7 +16,7 @@ Vi sørger altid for at forkæle vores gæster med god forplejning, som ofte ind
 
 ![Yellow Duck](/img/photos/photo_2023-07-31_11-48-36.jpg "Yellow Duck")
 
-Er du interesseret i at blive en del af teamet, der arrangerer karriereaften? Så tøv ikke med at skrive til fagrådet! 💌
+Er du interesseret i at blive en del af udvalget, der arrangerer karriereaften? Så tøv ikke med at skrive til fagrådet! 💌
 
 ## Medlemmer
 

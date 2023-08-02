@@ -1,7 +1,7 @@
 ---
 title: "SCIENCErådet"
 disable_share: true
-summary: "Medlemmer: Marie Kaltoft '18"
+summary: "Medlemmer:<br>Marie Kaltoft '18"
 ---
 
 [SCIENCErådet](https://scienceraadet.dk/) fungerer som en stemme for studerende på tværs af hele SCIENCE-fakultetet, hvilket inkluderer Det Matematiske Institut. Rådet letter kommunikationen mellem de studerende og fakultetet, styrker fællesskabet og fremmer interesserne for samtlige studerende.

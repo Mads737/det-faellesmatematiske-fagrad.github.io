@@ -1,7 +1,7 @@
 ---
 title: "Karriereaften"
 disable_share: true
-summary: "Medlemmer: Jinyang Liu '20"
+summary: "Medlemmer:<br>Jinyang Liu '20"
 ---
 
 Hvert år arrangerer Karriereaften-udvalget en spændende karriereaften på MATH. I vores mission om at bygge bro mellem studerende og erhvervslivet inviterer vi talere fra diverse virksomheder, som har det til fælles, at de ofte er alumner fra MATH.
@@ -20,7 +20,7 @@ Er du interesseret i at blive en del af udvalget, der arrangerer karriereaften? 
 
 ## Medlemmer
 
-- Jinyang Liu '20
+- Jinyang Liu '20 (valgt i 2023)
 
 ## Tidligere begivenheder
 

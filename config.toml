@@ -3,6 +3,7 @@ languageCode = 'da-DK'
 title = 'Det Fællesmatematiske Fagråd'
 theme = 'ananke'
 enableGitInfo = true
+googleAnalytics = 'G-1TXN9FWSRB'
 
 [params]
   mainSections = ["posts"]

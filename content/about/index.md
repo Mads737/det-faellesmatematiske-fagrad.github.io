@@ -13,7 +13,7 @@ Det Fællesmatematiske Fagråd (i daglig tale blot ”Fagrådet”) er studenter
 Herunder er et par eksempler på råd, hvor Fagrådet er repræsenteret:
 - Studienævnet
 - Studenterpanelet
-- UndervisningsUdvalget
+- Undervisningsudvalget
 - SCIENCErådet
 
 
@@ -24,7 +24,13 @@ Og her er et par eksempler på arrangementer afholdt af Fagrådet:
 - Studenterkollokvier
 
 ### Yderligere information
-Fagrådet har en bestyrelse bestående af fem studerende, som om tager sig af alt det praktiske omkring Fagrådet – herunder indkaldelse til møder, besvarelse af e-mails, opdatering af hjemmesiden med videre.
+Fagrådet har en bestyrelse bestående af fem studerende, som om tager sig af alt det praktiske omkring Fagrådet – herunder indkaldelse til møder, besvarelse af e-mails, opdatering af hjemmesiden med videre. Fagrådets bestyrelse som er blevet valgt i 2023 består af:
+
+- Marie ‘19 (kasserer)
+- Jin ‘20 (formand)
+- Simone ‘19 (menig)
+- Albert ‘21 (menig)
+- Rasmus Veber ‘19 (menig)
 
 Har du en idé til et fedt arrangement? Vil du hjælpe med at lave kursusvideoer? Har du en sag, du brænder for? Eller vil du bare høre den nyeste sladder fra instituttet? Så kom til fagrådsmøde! Der afholdes fagrådsmøde 1-2 gange hver blok, og de begynder typisk kl. 17. Fagrådsmøderne er åbne for alle studerende, og der er gratis aftensmad. Du kan finde datoen for næste fagrådsmøde på vores facebookside. Du er også altid velkommen til at skrive til os. Vi glæder os til at se dig!
 

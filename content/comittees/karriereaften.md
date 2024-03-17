@@ -20,7 +20,7 @@ Er du interesseret i at blive en del af udvalget, der arrangerer karriereaften? 
 
 ## Medlemmer
 
-- Jinyang Liu '20 (valgt i 2023)
+- Jinyang Liu '20 (valgt i 2023-2024)
 
 ## Tidligere begivenheder
 

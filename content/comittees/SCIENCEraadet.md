@@ -1,7 +1,7 @@
 ---
 title: "SCIENCErådet"
 disable_share: true
-summary: "Medlemmer:<br>Marie Kaltoft '18"
+summary: "Medlemmer:<br>Albert Eilgaard '21"
 ---
 
 [SCIENCErådet](https://scienceraadet.dk/) fungerer som en stemme for studerende på tværs af hele SCIENCE-fakultetet, hvilket inkluderer Det Matematiske Institut. Rådet letter kommunikationen mellem de studerende og fakultetet, styrker fællesskabet og fremmer interesserne for samtlige studerende.
@@ -12,4 +12,4 @@ Hvis du vil dykke dybere ned i den organisatoriske struktur, anbefaler vi [denne
 
 ## Fagrådets repræsentanter
 
-- Marie Kaltoft '18 (valgt 2023)
+- Albert Eilgaard '21 (valgt 2024)

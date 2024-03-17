@@ -1,7 +1,7 @@
 ---
 title: "Undervisningsudvalget"
 disable_share: true
-summary: "Medlemmer:<br>Sebastian Nilausen '21<br>Ida Kærn '21<br>Rasmus Lemvig '18<br>Emil Wieser '18"
+summary: "Medlemmer:<br>Sebastian Nilausen '21<br>Ida Kærn '21<br>Rasmus Lemvig '18<br>Andrea Christensen '21"
 ---
 
 Undervisningsudvalget gennemgår og analyserer kursus- og projektevalueringer. Baseret på disse evalueringer, inddeles kurserne i tre kategorier:
@@ -14,7 +14,7 @@ Undervisningsudvalget mødes fire gange om året 📅, en gang efter hver underv
 
 ## Medlemmer
 
-- Sebastian Nilausen '21
-- Ida Kærn '21
-- Rasmus Lemving '18
-- Emil Wieser '18
+- Sebastian Nilausen '21 (valgt i 2024)
+- Ida Kærn '21 (valgt i 2024)
+- Rasmus Lemving '18 (valgt i 2024)
+- Andrea Christensen '18 (valgt i 2024)

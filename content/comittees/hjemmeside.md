@@ -12,4 +12,4 @@ Alle kan foreslå ændringer til fagrådets hjemmeside. Ved at klikke på linket
 
 ## Medlemmer
 
-- Jinyang Liu '20 (valgt i 2023)
+- Jinyang Liu '20 (valgt i 2023-2024)

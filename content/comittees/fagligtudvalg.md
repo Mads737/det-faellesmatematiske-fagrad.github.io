@@ -1,7 +1,7 @@
 ---
 title: "Fagligt udvalg (breakfast lectures)"
 disable_share: true
-summary: "Medlemmer:<br> Albert Eilgaard '21 <br> Rasmus Veber '19 <br> Simone Pedersen '19 <br> Victor Nyaard '18"
+summary: "Medlemmer:<br> Magnus Ridder '21"
 ---
 
 Fagligt udvalg er en gruppe af studerende, der står for at lave faglige arrangementer på MATH, hvor vi håber på at give et skud faglige vitaminer til de studerende. Vores faste arrangementer består af breakfast lectures og studenterkollokvier. 📚
@@ -14,9 +14,4 @@ Er du interesseret i at blive en del af fagligt udvalg, eller for selv at holde 
 
 ## Medlemmer 
 
-Følgende er valgt i 2023
-
-- Albert Eilgaard '21
-- Rasmus Veber '19
-- Simone Pedersen '19
-- Victor Nygaard '18
+- Magnus Ridder '21 (valgt i 2023)

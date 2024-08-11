@@ -1,6 +1,13 @@
 {{/* func/last-updated */}}
 
-{{ $filePath := print .Site.Params.githublink (path.Clean .File.Path) }}
-<div class="pa3 center" style="text-align: center">
-    Sidst opdateret {{ .Lastmod.Format "2006-01-02" }} - <a href="{{ $filePath }}" rel="noopener">Edit siden</a>
-</div>
+{{ if .File }} <!-- Check if .File is not nil -->
+    {{ $filePath := print .Site.Params.githublink (path.Clean .File.Path) }}
+    <div class="pa3 center" style="text-align: center">
+        Sidst opdateret {{ .Lastmod.Format "2006-01-02" }} - <a href="{{ $filePath }}" rel="noopener">Edit siden</a>
+    </div>
+{{ else }}
+    <!-- Optional: You could include a fallback message or simply leave this block empty -->
+    <div class="pa3 center" style="text-align: center">
+        Sidst opdateret {{ .Lastmod.Format "2006-01-02" }}
+    </div>
+{{ end }}
